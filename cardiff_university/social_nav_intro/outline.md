@@ -14,10 +14,9 @@ School of Computer Science and Informatics
 
 Cardiff University
 
-![bg right height:3cm](./Cardiff_University_logo.png)
-![bg right height:2cm](./open-use-espol-logo_0.svg)
-![bg right height:1cm](./FunPython_logo.png)
-
+![bg right height:3cm](./images/Cardiff_University_logo.png)
+![bg right height:2cm](./images/open-use-espol-logo_0.svg)
+![bg right height:1cm](./images/FunPython_logo.png)
 
 <!-- # Demos desde las pasantias
 - -->
@@ -63,7 +62,6 @@ Cardiff University
 1. what refers to social navigation
 2. social navigation vs common robot navigation
 
-
 ---
 
 ## Previous works on social navigation
@@ -71,6 +69,7 @@ Cardiff University
 1. state of art and different type of approaches
 
 ---
+
 ## disadvantages of current social navigation approaches
 
 ---
