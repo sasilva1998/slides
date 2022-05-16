@@ -1,3 +1,0 @@
-Started render process: /usr/bin/melt /tmp/kdenlive_rendering_o31130.mlt in=0 out=1359 -profile atsc_1080p_60 -consumer avformat:/home/sasm/slides/cardiff_university/social_nav_intro/images/frozen_agent_problem.gif progress=1 properties=GIF threads=8 real_time=-1
-melt: Current Frame: 1, percentage: 0
-Rendering of /home/sasm/slides/cardiff_university/social_nav_intro/images/frozen_agent_problem.gif aborted, resulting video will probably be corrupted.
